@@ -6,6 +6,7 @@ This multimedia project is a solidarity campaign designed to raise awareness abo
 ## 🎧 1. Audio Production 
 **Tool Used:** Audacity  
 **File in:** `Audio_Production`
+[Final Project.wav](https://github.com/user-attachments/files/26919997/Final.Project.wav)
 
 The audio track uses emotional contrast to deliver its message. It begins by describing a state of normal, peaceful life, which is suddenly disrupted by the unexpected reality of war and bombings. 
 The narrative builds up to a powerful conclusion: *Even if there are superficial truces, the war and suffering have not truly ended, making the boycott a continuous necessity.*
@@ -13,6 +14,7 @@ The narrative builds up to a powerful conclusion: *Even if there are superficial
 ## 🎨 2. Visual Identity 
 **Tool Used:** Adobe Illustrator  
 **Files in:** `Visual_Identity`
+<img width="702" height="706" alt="logo" src="https://github.com/user-attachments/assets/b1fc8195-7822-460c-989b-9a40cc66f8a9" />
 
 The logo is designed to visually translate the audio's narrative into a striking badge.
 * **The Palestinian Flag & Map:** The map of historical Palestine is draped in the traditional Keffiyeh pattern, overlapping a circular Palestinian flag. This represents resilience and deep-rooted identity.
